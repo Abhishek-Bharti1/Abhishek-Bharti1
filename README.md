@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek Bharti-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhishek-bharti-/)](https://www.linkedin.com/in/abhishek-bharti-/)
-[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Bharti1?label=Follow&style=social)](https://github.com/Abhishek-Bharti1/?tab=follow)
+
 
 
 
