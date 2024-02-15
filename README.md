@@ -12,13 +12,11 @@
 
 - 🔭 I’m currently working on [Honebi]
 
-- 🌱 I’m currently learning **Java.**
-
 - 💬 Ask me about **javascript, react, nodejs, expressjs**
 
 - 📫 How to reach me **abhishekbharti91550@gmail.com**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-1NB6z-L2vV_H3aDyNBGOD_tO0cJSck_/view?usp=drive_link" target="blank">resume</a>
 
 - ⚡ Fun fact **I'm a open university student.**
 
