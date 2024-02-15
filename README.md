@@ -6,7 +6,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Bharti</h1>
-<h3 align="center"> A passionate full-stack web developer with a keen interest in crafting robust, scalable, and user-friendly web applications. With a solid foundation in both front-end and back-end technologies, I thrive on bringing ideas to life through clean and efficient code.</h3>
+<h3 align="center"> 
+A passionate full-stack web developer demonstrates a keen interest in crafting robust, scalable, and user-friendly web applications. Possessing a solid foundation in both front-end and back-end technologies, they excel in bringing ideas to life through clean and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Bharti1&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Bharti1" /> </p>
 
