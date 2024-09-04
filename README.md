@@ -17,7 +17,7 @@ A passionate full-stack web developer demonstrates a keen interest in crafting r
 
 - 📫 How to reach me **abhishekbharti91550@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-1NB6z-L2vV_H3aDyNBGOD_tO0cJSck_/view?usp=drive_link" target="blank">resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1-1NB6z-L2vV_H3aDyNBGOD_tO0cJSck_/view?usp=drive_link](https://drive.google.com/file/d/1i5pxwgsmQnZdeCD40-OniytE5r17A7Qn/view?usp=sharing)" target="blank">resume</a>
 
 - ⚡ Fun fact **I'm a open university student.**
 
